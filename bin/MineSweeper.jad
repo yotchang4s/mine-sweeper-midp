@@ -1,0 +1,10 @@
+MIDlet-Jar-Size: 26459
+MIDlet-Jar-URL: MineSweeper.jar
+MIDlet-Name: MineSweeper
+MIDlet-Vendor: Tetsutaro
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-1.0
+MIDlet-Data-Size: 1024
+MIDlet-1: MineSweeper,/icon.png,MineSweeper
+MIDlet-X-Copyright: ON
